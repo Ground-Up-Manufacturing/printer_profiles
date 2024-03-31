@@ -1,0 +1,52 @@
+{
+    "dismissed": [],
+    "installed": {
+        "MoonrakerConnection": {
+            "filename": "C:\\Users\\BLeis\\AppData\\Local\\cura\\5.5\\cache\\cura_packages\\MoonrakerConnection.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "emtrax",
+                    "display_name": "emtrax",
+                    "email": "okuda@gmx.de",
+                    "website": "https://github.com/emtrax-ltd/Cura2MoonrakerPlugin"
+                },
+                "description": "Upload and Print with Klipper via Moonraker API.\n\nThe development of this plugin can be sponsored via \"Ko-fi\" (https://ko-fi.com/emtrax) or \"Buy Me a Coffee\" (https://www.buymeacoffee.com/emtrax).",
+                "display_name": "Moonraker Connection",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "MoonrakerConnection",
+                "package_type": "plugin",
+                "package_version": "1.7.2",
+                "sdk_version": 8,
+                "sdk_version_semver": "8.4.0",
+                "website": "https://github.com/emtrax-ltd/Cura2MoonrakerPlugin"
+            }
+        },
+        "PowerCost": {
+            "filename": "C:\\Users\\BLeis\\AppData\\Local\\cura\\5.5\\cache\\cura_packages\\PowerCost.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "YiamiYo",
+                    "display_name": "YiamiYo",
+                    "email": "yiamiyo@yahoo.gr",
+                    "website": "https://github.com/YiamiYo"
+                },
+                "description": "Simple plugin to display the estimated power cost of a print.\n\nManage Printers > Power Cost Settings",
+                "display_name": "Power Cost",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "PowerCost",
+                "package_type": "plugin",
+                "package_version": "0.1.3",
+                "sdk_version": 8,
+                "sdk_version_semver": "8.0.0",
+                "website": "https://github.com/YiamiYo/Cura-PowerCostPlugin"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
